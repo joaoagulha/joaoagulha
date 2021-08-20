@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **joaoagulha/joaoagulha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Studying Computer Engineering integrated MSc at FEUP (year 5/5)
+- Keen on Artificial Intelligence
+- Moneyball enthusiast for player recruitment in FIFA
+
